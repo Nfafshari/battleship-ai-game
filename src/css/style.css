@@ -1,0 +1,5 @@
+/* styles.css - this is a global file for keeping color consistent across the entire application*/
+
+:root {
+    --main-background: #ffffff;
+}

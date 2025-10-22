@@ -1,0 +1,8 @@
+@import '../../../css/style.css';
+
+.App-full-window-background {
+    height: 101vh;
+    width: 101vw;
+
+    background-color: var(--main-background);
+}
